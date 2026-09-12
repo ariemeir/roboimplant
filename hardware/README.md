@@ -1,8 +1,8 @@
 # Hardware
 
-**→ [Browse this directory on GitHub](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/hardware)**
-· [`pcb/`](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/hardware/pcb)
-· [`enclosure/`](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/hardware/enclosure)
+**→ [Browse this directory on GitHub](https://github.com/ariemeir/roboimplant/tree/main/hardware)**
+· [`pcb/`](https://github.com/ariemeir/roboimplant/tree/main/hardware/pcb)
+· [`enclosure/`](https://github.com/ariemeir/roboimplant/tree/main/hardware/enclosure)
 
 | | |
 |:--:|:--:|

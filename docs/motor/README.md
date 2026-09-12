@@ -3,10 +3,10 @@
 Reference documentation for the servo controller the firmware drives. The board
 commands it through an analog set-value input fed by a DS1267 digital
 potentiometer; motor constants derived from these documents live in
-[`firmware/config.h`](https://github.com/ariemeir/technical-portfolio/blob/main/roboimplant/firmware/config.h)
+[`firmware/config.h`](https://github.com/ariemeir/roboimplant/blob/main/firmware/config.h)
 (`TORQUE_CONSTANT` 23.5 mNm/A, `SPEED_CONSTANT` 406 rpm/V).
 
-**→ [Browse this directory on GitHub](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/docs/motor)**
+**→ [Browse this directory on GitHub](https://github.com/ariemeir/roboimplant/tree/main/docs/motor)**
 
 | File | |
 |---|---|

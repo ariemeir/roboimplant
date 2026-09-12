@@ -6,7 +6,7 @@ This project is published **for reference purposes only**, as an engineering
 portfolio artifact. **All rights reserved to UC Berkeley and UCSF.**
 
 No license — open source or otherwise — is granted to use, copy, modify, or
-distribute the original work in this directory. It is made visible so that the
+distribute the original work in this repository. It is made visible so that the
 engineering can be read and evaluated, nothing more.
 
 This reservation applies to the **original work only**. It does not and cannot

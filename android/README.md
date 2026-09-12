@@ -6,8 +6,8 @@ the spine and rod.
 
 Eclipse ADT project, package `edu.ucsf.roboimplantconsole`, circa 2012–2013.
 
-**→ [Browse this directory on GitHub](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/android)**
-· [`src/`](https://github.com/ariemeir/technical-portfolio/tree/main/roboimplant/android/src/edu/ucsf)
+**→ [Browse this directory on GitHub](https://github.com/ariemeir/roboimplant/tree/main/android)**
+· [`src/`](https://github.com/ariemeir/roboimplant/tree/main/android/src/edu/ucsf)
 
 | | | | |
 |:--:|:--:|:--:|:--:|

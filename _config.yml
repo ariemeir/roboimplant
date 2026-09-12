@@ -1,0 +1,7 @@
+title: RoboImplant
+description: Non-invasive adjustment system for a spinal distraction implant. AVR firmware, Android clinician console, custom PCB, SolidWorks enclosure.
+theme: jekyll-theme-primer
+
+# Keep build output lean; source stays browsable on GitHub itself.
+exclude:
+  - .gitignore
