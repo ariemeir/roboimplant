@@ -182,7 +182,7 @@ Direct links into the code on GitHub:
 
 ## Other projects
 
-- **[3D Scanner](https://github.com/ariemeir/3dscanner)** · turntable photogrammetry rig: iPhone camera server, Python orchestration, IR-driven turntable, Object Capture reconstruction.
-- **[WifeSignal](https://github.com/ariemeir/wifesignal)** · BLE desk signal light: SwiftUI app, aiohttp and bleak bridge, ESP32-C3 firmware, KiCad board, scripted enclosure.
+- **[3D Scanner](https://github.com/ariemeir/diy-iphone-3d-scanner)** · turntable photogrammetry rig: iPhone camera server, Python orchestration, IR-driven turntable, Object Capture reconstruction.
+- **[WifeSignal](https://github.com/ariemeir/family-comms-signal)** · BLE desk signal light: SwiftUI app, aiohttp and bleak bridge, ESP32-C3 firmware, KiCad board, scripted enclosure.
 
 All published engineering projects are listed at [github.com/ariemeir](https://github.com/ariemeir).
